@@ -1,0 +1,6 @@
+# IntelliJ Config
+/.idea/
+/*.iml
+
+# Compile / Release
+/target/
